@@ -1,4 +1,4 @@
-Students Performance Exploratory Data Analysis
+# Students Performance Exploratory Data Analysis
 
 In this session, I will use various methods of exploratory data analysis to examine the characteristics of the "Students Performance in Exams" dataset.
 The data contains eight variables used to explore the effect of various factors on test scores. The variables are:
